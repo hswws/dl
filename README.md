@@ -15,6 +15,17 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+- 每日一言接口<jks>2</jks>
+<jk1>https://api.vvhan.com/api/ian</jk1>
+<jk2>http://api.heerdev.top:4995/nemusic/random</jk2>
+
+
+
+
+
+
+
+
 - Bulleted
 - List
 
