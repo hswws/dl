@@ -7,3 +7,5 @@
 - 可以运行的群号{!bsqs!}2{!bsqs!!}  
 {!bsq1!}1025126940{!bsq1!!}  
 {!bsq2!}933264389{!bsq2!!}  
+
+v2:https://subscribe.intcloud.in/api/v1/client/subscribe?token=87b01139ea9f7d71d2ec28453a13d08c
